@@ -3,7 +3,7 @@
 <h3 align="center">Software Developer skilled in coding, debugging, and project management. Delivers elegant, scalable solutions while collaborating effectively within Agile and Scrum frameworks to achieve project goals and foster innovation.</h3>
 <img align="right" alt="coding" width="400" src="https://www.codium.ai/wp-content/uploads/2023/10/how-does-code-integrity-work.gif">
 
-- 🌱 I’m currently learning **Salesforce Dev**
+- 🌱 I’m currently learning 
 
 - 📫 How to reach me **rohitpatil.rp187@gmail.com**
 
